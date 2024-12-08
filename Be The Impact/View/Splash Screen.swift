@@ -12,6 +12,7 @@ struct Be_The_ImpactApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            //My change
         }
     }
 }
